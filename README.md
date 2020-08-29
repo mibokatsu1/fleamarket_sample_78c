@@ -7,23 +7,22 @@
 ### アプリケーション概要
 チーム開発でフリーマーケットのアプリケーションを作成しました。
 #### ● 接続先情報
--   ○ URL http://52.199.193.193/
--   ○ ID/Pass
-- ■ ID: admin
-- ■ Pass: pass1111
-- ○ テスト用アカウント等
-- ■ 購入者用
-- ● メールアドレス: tanaka@tanaka.com
-- ● パスワード: tanaka1234
-- ■ 購入用カード情報
-- ● 番号: 4242424242424242
-- ● 期限: 04/23
-- ● セキュリティコード:2222
-- ■ 出品者用
-- ● メールアドレス名: guest@guest.com
-- ● パスワード: guest1234
-- ● Githubリポジトリ
-- ○ https://github.com/mibokatsu1/fleamarket_sample_78c
+- URL http://52.199.193.193/
+- ID: admin
+- Pass: pass1111
+#### ○ テスト用アカウント等
+##### ■ 購入者用
+- メールアドレス: tanaka@tanaka.com
+- パスワード: tanaka1234
+##### ■ 購入用カード情報
+- 番号: 4242424242424242
+- 期限: 04/23
+- セキュリティコード:2222
+##### ■ 出品者用
+- メールアドレス名: guest@guest.com
+- パスワード: guest1234
+##### ● Githubリポジトリ
+- https://github.com/mibokatsu1/fleamarket_sample_78c
 
 ### 開発状況
 - ● 開発環境
