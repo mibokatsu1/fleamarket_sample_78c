@@ -50,6 +50,9 @@
 ### 開発担当箇所 担当箇所一覧と確認方法
 - DB設計
 - トップページ(フロントエンド)<br>
+<img width="1440" alt="スクリーンショット 2020-07-24 21 06 49" src="https://user-images.githubusercontent.com/66307448/91628754-ecf99a00-e9fd-11ea-9bb7-0cf47bab9ef1.png">
+<img width="1440" alt="スクリーンショット 2020-07-24 21 09 11" src="https://user-images.githubusercontent.com/66307448/91628756-f125b780-e9fd-11ea-8199-9847dba7f2ed.png">
+
 ○ http://52.199.193.193/ <br>
 にアクセスするとご覧いただけます。
 - 出品商品一覧新着表示機能(バックエンド)<br>
@@ -57,14 +60,18 @@
 にてご覧いただけます。
 - 出品ページ(フロントエンド)<br>
 ○ 出品用アカウントでログイン後、トップページの右下の出品するボタンから遷移してご覧いただけます。
+<img width="1440" alt="スクリーンショット 2020-07-24 21 23 16" src="https://user-images.githubusercontent.com/66307448/91628774-3649e980-e9fe-11ea-9184-4d80a6fcd539.png">
 
 - ルーティングの設定(バックエンド)
 - パンくず機能(バックエンド)<br>
 ○ 本人情報確認ページ等の上部にてご覧いただけます。
- 商品購入機能(バックエンド)<br>
+<img width="574" alt="スクリーンショット 2020-07-27 9 55 13" src="https://user-images.githubusercontent.com/66307448/91628789-57aad580-e9fe-11ea-9a3a-0dae9390bc98.png">
+
+商品購入機能(バックエンド)<br>
 ○ 購入者用アカウントでログイン後、トップページの商品一覧から適当な商品を選択することで商品購入画面へ進めます。<br>
   クレジットカード情報の入力を求められた際は、上記の購入用カード情報を入力することで購入できます。
-  
+<img width="658" alt="スクリーンショット 2020-07-24 21 37 24" src="https://user-images.githubusercontent.com/66307448/91628814-7610d100-e9fe-11ea-9c55-4d9ad581bd51.png">
+
 ### 各担当箇所の詳細
 - DB設計<br>
 ○ 概要<br>
@@ -142,9 +149,6 @@ JavaScriptはフロントエンドでHTMLの見た目を単純に変更するだ
 また、ブランチでgemをインストールした時や、テーブルの情報を書き換えた時など、ブランチをマージすると他のメンバーにどんな影響が出るか把握できるようになり、マージする際にメンバーへ注意を促すことができるようになりました。<br>
 <br>以上
 
-<img width="1143" alt="promo1" src="https://user-images.githubusercontent.com/66307448/90592913-a946a980-e221-11ea-972c-d0dd358e89b7.png">
-<img width="1143" alt="田中克憲_最終課題説明文_20200724" src="https://github.com/mibokatsu1/shopping_for_cook/files/5144743/_._20200724.pdf">
-[田中克憲_最終課題説明文_20200724.pdf](https://github.com/mibokatsu1/shopping_for_cook/files/5144743/_._20200724.pdf)
 
 
 # FLEAMARKET DB設計
