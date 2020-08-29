@@ -1,3 +1,8 @@
+
+
+[田中克憲_最終課題説明文_20200724.pdf](https://github.com/mibokatsu1/shopping_for_cook/files/5144743/_._20200724.pdf)
+
+
 # FLEAMARKET DB設計
 # usersテーブル
 |Coumn|Type|Options|
