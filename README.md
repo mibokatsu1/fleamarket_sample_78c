@@ -1,5 +1,6 @@
 
-
+<img width="1143" alt="promo1" src="https://user-images.githubusercontent.com/66307448/90592913-a946a980-e221-11ea-972c-d0dd358e89b7.png">
+<img width="1143" alt="田中克憲_最終課題説明文_20200724" src="https://github.com/mibokatsu1/shopping_for_cook/files/5144743/_._20200724.pdf">
 [田中克憲_最終課題説明文_20200724.pdf](https://github.com/mibokatsu1/shopping_for_cook/files/5144743/_._20200724.pdf)
 
 
